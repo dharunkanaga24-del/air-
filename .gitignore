@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+Thumbs.db
+setup_git.ps1
+.system_generated/

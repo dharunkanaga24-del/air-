@@ -1,0 +1,21 @@
+{
+  "name": "esp32-air-quality-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time IoT Air Quality Monitoring Web Dashboard for ESP32 & Firebase",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx.cmd serve . -l 3000",
+    "start": "npx.cmd serve . -l 3000"
+  },
+  "keywords": [
+    "esp32",
+    "firebase",
+    "iot",
+    "air-quality",
+    "aqi",
+    "dashboard",
+    "realtime"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
